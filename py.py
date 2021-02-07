@@ -1,7 +1,10 @@
+# ask what operator should we use
 solve = str(input("Operator (+,-,/,*) "))
 operetor = ("+",'-','/','*')
 i = 0
+# check if the operator is entered
 while i < len(operetor):
+# 	if it so, solve the problem
 	if solve == operetor[i]:
 		try:
 			a      = float(input("First number: "))
