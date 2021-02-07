@@ -28,4 +28,4 @@ while i < len(operetor):
 	else:
 		i += 1
 else:
-	print("You did not write an operator, try again")
+	print("You did not enter an operator, try again")
