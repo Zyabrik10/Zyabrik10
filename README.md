@@ -1,6 +1,6 @@
 # Zyabrik10
 
-Good morning to you. My name is Oleksandr or just sorty Alex. Currenly, I am a student of WSZIB and studing computer science. I have a passion in learning new things, espacialy when It is realy useful or can bring you lots of fun. Right now, I am looking for Intership as Full-Stack developer (any commercial experience is wellcome).
+Good morning. My name is Oleksandr, or just Alex. Currently, I am a student at WSZIB, studying computer science. I have a passion for learning new things, especially when they are really useful or can bring a lot of fun. Right now, I am looking for an internship as a Full-Stack Developer (any commercial experience is welcome).
 
 ### 📱 How to reach me
 
