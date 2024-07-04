@@ -36,4 +36,4 @@ Good morning. My name is Oleksandr, or just Alex. Currently, I am a student at W
 
 ## 📔📷 **Social**:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-mazurok-jfd/) [![Codepen](https://img.shields.io/badge/codepen-black)](https://codepen.io/Zyabrik10) ![GitHub followers](https://img.shields.io/github/followers/3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-mazurok-jfd/) [![Codepen](https://img.shields.io/badge/codepen-black)](https://codepen.io/Zyabrik10) ![GitHub followers](https://img.shields.io/github/followers/4)
