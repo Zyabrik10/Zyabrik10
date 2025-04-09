@@ -1,6 +1,6 @@
 # Zyabrik10
 
-Good morning. My name is Oleksandr, or just Alex. Currently, I am a student at WSZIB, studying computer science. I have a passion for learning new things, especially when they are really useful or can bring a lot of fun. Right now, I am looking for an internship as a Full-Stack Developer (any commercial experience is welcome).
+Good morning. I am a student at WSZIB, studying computer science. I have a passion for learning new things, especially when they are really useful or can bring a lot of fun. Right now, I am looking for an internship as a Full-Stack Developer (any commercial experience is welcome).
 
 My current project: [canvas-wizard](https://canvas-wizard.vercel.app/)
 
