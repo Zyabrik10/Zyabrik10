@@ -6,7 +6,7 @@ My current project: [canvas-wizard](https://canvas-wizard.vercel.app/)
 
 ### 📱 How to reach me
 
-<a href="mailto:sasamazurok@gmail.com">**sasamazurok@gmail.com**</a>
+<a href="mailto:workit.js@gmail.com">**workit.js@gmail.com**</a>
 
 ### 💻 My stack
 
